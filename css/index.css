@@ -1,0 +1,12 @@
+.profile-border {
+    border: 5px solid #0B3D91; /* Darker navy blue border */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.9); /* Circular shadow */
+}
+
+.bg-navy {
+    background-color: #0B3D91; /* Darker navy blue background */
+}
+
+.hover-bg-navy:hover {
+    background-color: #082567; /* Even darker navy blue for hover effect */
+}
