@@ -1,2 +1,2 @@
-﻿# InstagramAldo
-https://githubaldo123.github.io/InstagramAldo/
+﻿# Aldo
+https://githubaldo123.github.io/Aldo/
